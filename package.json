@@ -1,0 +1,11 @@
+{
+  "name": "ngx-beehive",
+  "version": "1.0.0",
+  "author": "Krisztián Martinkovics",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "rx-beehive": "^1.0.1"
+  },
+  "license": "ISC"
+}
